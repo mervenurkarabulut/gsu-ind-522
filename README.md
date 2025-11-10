@@ -5,5 +5,5 @@ Devoirs pour Méthodes avancées en modélisation statistique, automne 2025
 
 ## 🌐 Pages
 
-- [English Version](https://mervenurkarabulut.github.io/gsu-ind-522/index.html)
-- [French Version](https://mervenurkarabulut.github.io/gsu-ind-522/index_fr.html)
+- [English](https://mervenurkarabulut.github.io/gsu-ind-522/index.html)
+- [Français](https://mervenurkarabulut.github.io/gsu-ind-522/index_fr.html)
